@@ -1,13 +1,18 @@
 .message {
   display: flex;
   align-items: center;
-  padding: 20px;
+  padding: 10px;
+}
+
+.message:hover {
+  background-color: rgb(247, 247, 247);
 }
 
 .message > img {
-  height: 50px;
-  width: 50px;
+  height: 45px;
+  width: 45px;
   object-fit: contain;
+  border-radius: 10px;
 }
 
 .message__info {

@@ -1,17 +1,18 @@
-.channelInput {
+.chatInput {
   border-radius: 20px;
+  padding: 10px;
 }
 
-.channelInput > form {
+.chatInput > form {
   position: relative;
   display: flex;
-  justify-content: center;
+  justify-content: left;
 }
 
 .chatInput > form > input {
   position: fixed;
   bottom: 30px;
-  width: 60%;
+  width: 70%;
   outline: none;
   border: 1px solid gray;
   border-radius: 3px;

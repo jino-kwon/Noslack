@@ -18,7 +18,7 @@ function Header() {
         <SearchIcon />
         {/* Inupt */}
         <input
-          placeholder="This is NOT the actual app our team is using, so feel free to leave anything!"
+          placeholder="This is NOT the actual app our team is using. Feel free to leave anything!"
           type="text"
         />
       </div>
